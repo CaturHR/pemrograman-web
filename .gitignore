@@ -1,0 +1,6 @@
+# .gitignore
+
+# Node modules
+note.txt
+.DS_Store
+.env
